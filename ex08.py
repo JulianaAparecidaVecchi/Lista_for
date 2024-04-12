@@ -1,5 +1,5 @@
 print(90*"=")
-print("| DIVISORES |")
+print("--------| DIVISORES |--------")
 print(90*"=")
 numero = int(input("Digite um número positivo: "))
 if numero <= 0:

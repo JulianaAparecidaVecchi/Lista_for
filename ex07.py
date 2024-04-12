@@ -1,5 +1,5 @@
 print(90*"-")
-print(" | SOMA PAR | ")
+print(" -------| SOMA PAR |------- ")
 print(90*"=")
 somapar=0
 for i in range(1,101):

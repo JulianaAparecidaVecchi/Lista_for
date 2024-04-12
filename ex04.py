@@ -4,7 +4,7 @@ idade=1
 print(90*"=")
 print("| MÉDIA IDADES |")
 print(90*"=")
-print("Quando quiser encerrar o programa e exibir a média digite 0")
+print("Quando quiser encerrar o programa e exibir a média digite '0'")
 while True:
     
     if idade==0:

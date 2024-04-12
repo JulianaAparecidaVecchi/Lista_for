@@ -1,7 +1,8 @@
+
 intervalo=0
 foraintervalo=0
 print(90*"=")
-print("INTERVALO [10,20]")
+print("----INTERVALO [10,20]----")
 print(90*"=")
 for i in range(1,11):
     numero=float(input(f"DIGITE O {i} NÚMERO: "))

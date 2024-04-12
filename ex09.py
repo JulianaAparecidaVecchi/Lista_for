@@ -1,4 +1,4 @@
-print("====================| ORDENADOR DE LISTAS |=======================================================")
+print("====================| ORDENADOR DE LISTAS |=================================================")
 lista=[]
 for i in range(1,11):
     numero=float(input(f"DIGITE {i}ª NÚMERO: "))

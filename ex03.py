@@ -1,4 +1,4 @@
-print("--------------| TABUADA |----------------")
+print("--------------| TABUADA |-----------------")
 print("===| Quando desejar encerrar a calculadora de tabuadas digite 0 |===")
 print(60*"-")
 while True:

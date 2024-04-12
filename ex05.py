@@ -1,3 +1,4 @@
+print("--------------| Pares e Ímpares |-----------------")
 numpar=0
 numimp=0
 print(90*"=")
